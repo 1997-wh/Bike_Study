@@ -337,7 +337,7 @@ ggplot(top_stations, aes(x = reorder(from_station_name, n), y = n)) +
 ```
 We can clearly see the casual rides are mostly located around the center of the town (or the bay area), with all their trips located around that area points towards their bike usage pattern, which is for leisure, probably tourist or sightseeing related rides.
 
-Members are mostly use bike all over the city including main city area and outside main center. This can be hypothesize as they travel for work purpose.
+Members are mostly using bikes all over the city including main city area and outside main center. This can be hypothesized as they travel for work purpose.
 
 
 #### KEY TAKEAWAYS
@@ -346,32 +346,34 @@ Members are mostly use bike all over the city including main city area and outsi
 - In all months we have more members than casual riders.
 - For casual riders the biggest volume of data is on the the weekend.
 - There is a bigger volume of bikers in the afternoon.
-- This could be possible that member use bikes for work purpose, this information can be backed by their bike usage in colder months, where there is significant drop in casual members in those months.
+- This could be possible that members use bikes for work purpose, this information can be backed by their bike usage in colder months, where there is significant drop in casual members in those months.
 
 Now for how members differs from casuals:
 - Members have the bigger volume of data, except on saturday and sunday. On the weekend, casuals riders have the most data points.
-- Casuals riders have more ride length (ride duration) than members. Average ride time of member are mostly same slight increase in end of week.
-- We have more members during the morning, mainly between 7am and 10am. And more casuals between 3pm and 12am.
+- Casuals riders have more ride length (ride duration) than members. Average ride time of member are mostly same with a slight increase towards the end of the week.
+- We have more members during the morning, mainly between 7am and 10am. And more casual riders between 3pm and 12am.
 - Members have a bigger preference for classic bikes, followed by electric bike.
-- Members have a more fixed use for bikes for routine activities. Where as casual rider's usage is different, mostly all activiy in the weekend.
-- Casual member spend time near the center of the city or the bay area, where as member are scattered throughout the city.
+- Members have a more fixed use for bikes for routine activities. Where as casual rider's usage is different, mostly all activity are on the weekend.
+- Casual members spend time near the center of the city or the bay area, where as members are scattered throughout the city.
 
 
 ## 6. Act
 
-Casual riders spent more time in bikes and member riders spent less time biking than casual riders.
+Casual riders spent more time on bikes and member riders spent less time biking than casual riders.
 
-On weekends casual bike riders increases. The most popular day for bike renting for all subscribers was Saturday. Sunday was the second most popular day for casual users.
+On weekends, the number of casual bike riders increases. The most popular day for bike renting for all subscribers was Saturday. Sunday was the second most popular day for casual users.
 
-It seems like casual rider use bikes for picnic and short trips on weekends and casual users use bike for general purpose like for going to school or school.
+It seems like casual riders use bikes for picnics and short trips on weekends and casual users use bikes for general purposes like for going to school.
 
 The data clearly showed seasonal fluctuations in ridership of all users, both in the number of rides and the average trip duration. It peaked during the summer months and was at its lowest point from the late fall to early spring, especially among casual users.
 
 
+
 ### Recommendations
 
-* Company may give discount on weekends if casual user take annual membership.Company may Offer weekend passes. This option may lead local users to purchase an annual membership.
+* Company may give discounts on weekends if casual users take annual membership.Company may Offer weekend passes. This option may lead local users to purchase an annual membership.
 
-* Company may give more discount on long duration of rides. Company should also offer seasonal passes as well. If the winter season pass is offered at a discount, some casual users might be willing to try it at a fraction of a membership cost before deciding to become year-long subscribers.
+* Company may give more discounts on long rides. Company should also offer seasonal passes as well. If the winter season pass is offered at a discount, some casual users might be willing to try it at a fraction of a 
+  membership cost before deciding to become year-long subscribers.
 
-* Provide a greener and echo friendly option for rider by Offering discounts to businesses, It might also motivate more casual users to cycle to work more often or all the time.
+* Provide a greener and echo friendly option for riders by Offering discounts to businesses, It might also motivate more casual users to cycle to work more often or all the time.
