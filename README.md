@@ -4,4 +4,3 @@
  insights, design a new marketing strategy to convert casual riders into annual
  members.
 
-R and Spreadsheets usage.
